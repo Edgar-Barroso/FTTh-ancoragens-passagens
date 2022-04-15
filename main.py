@@ -19,9 +19,9 @@ distancia_min_cabo_poste = 4
 angulo_ancoragem = 15
 
 #arquivos
-dic_cabos = 'Entrada/Cabos.kmz'
-dic_ceos = 'Entrada/CEOs.kmz'
-dic_postes = 'Entrada/Postes.kmz'
+dic_cabos = 'Cabos.kmz'
+dic_ceos = 'CEOs.kmz'
+dic_postes = 'Postes.kmz'
 
 
 
